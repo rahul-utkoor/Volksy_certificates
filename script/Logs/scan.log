@@ -1,0 +1,3161 @@
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Covering letters prepared
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f248e60e6c8>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f0de83166c8>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f0e4cc056c8>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f3a794f9710>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f931776c710>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f174a01b710>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f65cc2da710>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7fde1ba16710>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f75559a1710>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f338e6d1710>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7fec6fcc4710>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f2afcca2710>)
+Traceback (most recent call last):
+  File "scan.py", line 215, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f65b81c7710>)
+Traceback (most recent call last):
+  File "scan.py", line 215, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7faf1383c710>)
+Traceback (most recent call last):
+  File "scan.py", line 215, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7fb01dd78710>)
+Traceback (most recent call last):
+  File "scan.py", line 215, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 38, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f11517eb710>)
+Traceback (most recent call last):
+  File "scan.py", line 215, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 38, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f87bdde3710>)
+Traceback (most recent call last):
+  File "scan.py", line 215, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f2965fa5710>)
+Traceback (most recent call last):
+  File "scan.py", line 215, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7fbdecdeb710>)
+Traceback (most recent call last):
+  File "scan.py", line 215, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 38, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7fe8079de710>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f52a7c54710>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 18, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f0f18187710>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 18, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.NameError'>, NameError("global name 'inputpath' is not defined",), <traceback object at 0x7f66a32ac680>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 18, in csv_from_excel
+    print inputpath , file
+NameError: global name 'inputpath' is not defined
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7efc437fc710>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 37, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f7e0e990710>)
+Traceback (most recent call last):
+  File "scan.py", line 215, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 38, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 19, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch1GDH .xlsx'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f71d1bf8488>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7fec990ea0e0>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7fbaabbfb0e0>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f002d33b0e0>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7fbfdc3ad098>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f587d49a098>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7efcd16480e0>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f573f9bc0e0>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f0aa9fb90e0>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f4abdfd90e0>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f34bf97ecf8>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 130, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f3fa825ecf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f2309c19cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+(<type 'exceptions.IndexError'>, IndexError('only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices',), <traceback object at 0x7f0081119710>)
+Traceback (most recent call last):
+  File "scan.py", line 225, in scan
+    batchData['Concat'] = batchData['Name'] + batchData['Name Of Father/Husband']
+IndexError: only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices
+Got batch data file
+(<type 'exceptions.IndexError'>, IndexError('only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices',), <traceback object at 0x7fade5c8c6c8>)
+Traceback (most recent call last):
+  File "scan.py", line 225, in scan
+    batchData['Concat'] = batchData['Name'] + batchData['Name Of Father/Husband']
+IndexError: only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fd95b0f41b8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f4d38b031b8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fa9bf7491b8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7ffbcfeafab8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f477e021ab8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f44de6931b8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+(<type 'exceptions.IndexError'>, IndexError('only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices',), <traceback object at 0x7f40e57566c8>)
+Traceback (most recent call last):
+  File "scan.py", line 225, in scan
+    batchData['Concat'] = batchData['Name'] + batchData['Name Of Father/Husband']
+IndexError: only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fe9e06df1b8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7faccd7201b8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f0af8f181b8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f4dae66c1b8>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fd36c8ac1b8>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f843cb361b8>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f429b456fc8>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f2d208ff908>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+(<type 'exceptions.NameError'>, NameError("global name 'inputPathbatchDataFile' is not defined",), <traceback object at 0x7fbfeb540758>)
+Traceback (most recent call last):
+  File "scan.py", line 223, in scan
+    batchData = pd.read_csv(inputPathbatchDataFile,sep=',', low_memory=False)
+NameError: global name 'inputPathbatchDataFile' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fecf83d2908>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f00d38e5908>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+(<type 'exceptions.NameError'>, NameError("global name 'inputPathbatchDataFile' is not defined",), <traceback object at 0x7fca2c9a9758>)
+Traceback (most recent call last):
+  File "scan.py", line 223, in scan
+    batchData = pd.read_csv(inputPathbatchDataFile,sep=',', low_memory=False)
+NameError: global name 'inputPathbatchDataFile' is not defined
+Got batch data file
+(<type 'exceptions.NameError'>, NameError("global name 'inputPathbatchDataFile' is not defined",), <traceback object at 0x7f6c478cc758>)
+Traceback (most recent call last):
+  File "scan.py", line 223, in scan
+    batchData = pd.read_csv(inputPathbatchDataFile,sep=',', low_memory=False)
+NameError: global name 'inputPathbatchDataFile' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f1f4c81e908>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fa4c0c741b8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f1ce18421b8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f03c48091b8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7efebc1aecf8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fbfad34a1b8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f6604978cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7ff03b618cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f7422ff8cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f9c2119ccf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f73cf535cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fb870d4dcf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fea988e1cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fa9ddc62cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fb9f7ea2cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f908810a710>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f2df8ec4710>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f406ab8d248>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f895489d680>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fdf5f405cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fc93e6a5cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7ff003d2ccf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f7d63e1ccf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fa261645cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f5efed1acf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7faceb09acf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fa4752be0e0>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f99e9f323b0>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 130, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fe31eeb9cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fcd0a3ffcf8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'editedFolder' referenced before assignment",), <traceback object at 0x7fa15f36cd40>)
+Traceback (most recent call last):
+  File "scan.py", line 257, in scan
+    print "hi", editedFolder
+UnboundLocalError: local variable 'editedFolder' referenced before assignment
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f6bdbe69cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fe49b5ffcf8>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7fccf4091cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f95141a6cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f9f9d0c5cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 130, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f9e472cfcf8>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 130, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+OSError: [Errno 2] No such file or directory
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7fd30bf09c20>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f47b7c75c20>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f370dbb6c20>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 130, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f7006c54248>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    files = os.listdir(inputPath)
+OSError: [Errno 2] No such file or directory: 'Input/batch1/batch6'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f920345b290>)
+Traceback (most recent call last):
+  File "scan.py", line 214, in scan
+    files = os.listdir(inputPath)
+OSError: [Errno 2] No such file or directory: 'Input/batch1'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f4c2bf911b8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f1d9af371b8>)
+Traceback (most recent call last):
+  File "scan.py", line 266, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 130, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7fa905e421b8>)
+Traceback (most recent call last):
+  File "scan.py", line 267, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 131, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f6d83cde1b8>)
+Traceback (most recent call last):
+  File "scan.py", line 267, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 131, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+(<type 'exceptions.NameError'>, NameError("global name 'writerow' is not defined",), <traceback object at 0x7fea0a5cdd88>)
+Traceback (most recent call last):
+  File "scan.py", line 217, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 39, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 26, in csv_from_excel
+    print writerow(sh.row_values(rownum))
+NameError: global name 'writerow' is not defined
+(<type 'exceptions.ValueError'>, ValueError('Data file not found',), <traceback object at 0x7f395a808758>)
+Traceback (most recent call last):
+  File "scan.py", line 218, in scan
+    raise ValueError('Data file not found')
+ValueError: Data file not found
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7fc151ff81b8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f73b68171b8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7fdd153e91b8>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 129, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f190062e1b8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7fac176511b8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f9ca438f1b8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 127, in makeBatchFolder
+    print batchData['Certificate'].values
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f0e6d0261b8>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    print batchData['Certificate'].values
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f59b33b01b8>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    print batchData['Certificate']
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7fb6bd5371b8>)
+Traceback (most recent call last):
+  File "scan.py", line 262, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f32f74891b8>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7fbc7f71c1b8>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f1b420d31b8>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 127, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.NameError'>, NameError("global name 'dstPaths' is not defined",), <traceback object at 0x7ff5bcc601b8>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 124, in makeBatchFolder
+    print dstPaths
+NameError: global name 'dstPaths' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.NameError'>, NameError("global name 'dstPaths' is not defined",), <traceback object at 0x7f4696a9d1b8>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 124, in makeBatchFolder
+    print dstPaths
+NameError: global name 'dstPaths' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f3ae6d861b8>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 127, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f6dd300f1b8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 127, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f5967b771b8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f82771ee1b8>)
+Traceback (most recent call last):
+  File "scan.py", line 262, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f0f7eaaa1b8>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f87b47201b8>)
+Traceback (most recent call last):
+  File "scan.py", line 262, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f85144331b8>)
+Traceback (most recent call last):
+  File "scan.py", line 262, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7ff7b61391b8>)
+Traceback (most recent call last):
+  File "scan.py", line 261, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7fc2c40671b8>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f8e3c6ca1b8>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f884847f1b8>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'sudFolder' is not defined",), <traceback object at 0x7fdc759deef0>)
+Traceback (most recent call last):
+  File "scan.py", line 158, in seperateSubsidiaries
+    print sudFolder
+NameError: global name 'sudFolder' is not defined
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f82854e81b8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.TypeError'>, TypeError("'NoneType' object is not iterable",), <traceback object at 0x7f8c0bbb8128>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+TypeError: 'NoneType' object is not iterable
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.IndexError'>, IndexError('list index out of range',), <traceback object at 0x7f08cbfb4f80>)
+Traceback (most recent call last):
+  File "scan.py", line 151, in seperateSubsidiaries
+    sid = filename.split('_')[5]
+IndexError: list index out of range
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.TypeError'>, TypeError('rename() takes exactly 2 arguments (1 given)',), <traceback object at 0x7f2758746290>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 127, in makeBatchFolder
+    os.rename(inputPath)#+'/'+certificate, dstPath+certificate)
+TypeError: rename() takes exactly 2 arguments (1 given)
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.TypeError'>, TypeError('rename() takes exactly 2 arguments (1 given)',), <traceback object at 0x7ff22b09a290>)
+Traceback (most recent call last):
+  File "scan.py", line 263, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 127, in makeBatchFolder
+    os.rename(inputPath)#+'/'+certificate, dstPath+certificate)
+TypeError: rename() takes exactly 2 arguments (1 given)
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'sudFolder' is not defined",), <traceback object at 0x7f8584201ef0>)
+Traceback (most recent call last):
+  File "scan.py", line 158, in seperateSubsidiaries
+    print sudFolder
+NameError: global name 'sudFolder' is not defined
+(<type 'exceptions.NameError'>, NameError("global name 'notFound' is not defined",), <traceback object at 0x7f8584210c20>)
+Traceback (most recent call last):
+  File "scan.py", line 273, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 185, in makeCoveringLetters
+    if not notFound.empty:
+NameError: global name 'notFound' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'sudFolder' is not defined",), <traceback object at 0x7f29663faef0>)
+Traceback (most recent call last):
+  File "scan.py", line 158, in seperateSubsidiaries
+    print sudFolder
+NameError: global name 'sudFolder' is not defined
+(<type 'exceptions.NameError'>, NameError("global name 'notFound' is not defined",), <traceback object at 0x7f2966409c68>)
+Traceback (most recent call last):
+  File "scan.py", line 273, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 185, in makeCoveringLetters
+    if not notFound.empty:
+NameError: global name 'notFound' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'sudFolder' is not defined",), <traceback object at 0x7f8564f1bef0>)
+Traceback (most recent call last):
+  File "scan.py", line 158, in seperateSubsidiaries
+    print sudFolder
+NameError: global name 'sudFolder' is not defined
+(<type 'exceptions.NameError'>, NameError("global name 'notFound' is not defined",), <traceback object at 0x7f8564f2a638>)
+Traceback (most recent call last):
+  File "scan.py", line 272, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 182, in makeCoveringLetters
+    if not notFound.empty:
+NameError: global name 'notFound' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'sudFolder' is not defined",), <traceback object at 0x7fbd994b3ef0>)
+Traceback (most recent call last):
+  File "scan.py", line 158, in seperateSubsidiaries
+    print sudFolder
+NameError: global name 'sudFolder' is not defined
+(<type 'exceptions.NameError'>, NameError("global name 'notFound' is not defined",), <traceback object at 0x7fbd994c2200>)
+Traceback (most recent call last):
+  File "scan.py", line 272, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 182, in makeCoveringLetters
+    if not notFound.empty:
+NameError: global name 'notFound' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'sudFolder' is not defined",), <traceback object at 0x7f0e42db0ef0>)
+Traceback (most recent call last):
+  File "scan.py", line 158, in seperateSubsidiaries
+    print sudFolder
+NameError: global name 'sudFolder' is not defined
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+(<type 'exceptions.NameError'>, NameError("global name 'notFound' is not defined",), <traceback object at 0x7efdf9a64cf8>)
+Traceback (most recent call last):
+  File "scan.py", line 272, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 178, in makeCoveringLetters
+    if not notFound.empty:
+NameError: global name 'notFound' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'staetagicsummary' is not defined",), <traceback object at 0x7f28924b7ef0>)
+Traceback (most recent call last):
+  File "scan.py", line 157, in seperateSubsidiaries
+    print staetagicsummary
+NameError: global name 'staetagicsummary' is not defined
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7fbc003f21b8>)
+Traceback (most recent call last):
+  File "scan.py", line 267, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 126, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+(<type 'exceptions.NameError'>, NameError("global name 'locaton' is not defined",), <traceback object at 0x7f4acee7f170>)
+Traceback (most recent call last):
+  File "scan.py", line 275, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 196, in makeCoveringLetters
+    print str(locaton)
+NameError: global name 'locaton' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+(<type 'exceptions.NameError'>, NameError("global name 'fiilename' is not defined",), <traceback object at 0x7f2a6a2c5170>)
+Traceback (most recent call last):
+  File "scan.py", line 279, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 194, in makeCoveringLetters
+    print fiilename
+NameError: global name 'fiilename' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+(<type 'exceptions.NameError'>, NameError("global name 'fiilename' is not defined",), <traceback object at 0x7f0e44e55170>)
+Traceback (most recent call last):
+  File "scan.py", line 274, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 194, in makeCoveringLetters
+    print fiilename
+NameError: global name 'fiilename' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+(<type 'exceptions.NameError'>, NameError("global name 'fiilename' is not defined",), <traceback object at 0x7ff5c317c170>)
+Traceback (most recent call last):
+  File "scan.py", line 274, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 194, in makeCoveringLetters
+    print fiilename
+NameError: global name 'fiilename' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+(<type 'exceptions.NameError'>, NameError("global name 'folder' is not defined",), <traceback object at 0x7f8026befc20>)
+Traceback (most recent call last):
+  File "scan.py", line 279, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 208, in makeCoveringLetters
+    for files in os.listdir(folder):
+NameError: global name 'folder' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+(<type 'exceptions.NameError'>, NameError("global name 'folder' is not defined",), <traceback object at 0x7effcc4eec20>)
+Traceback (most recent call last):
+  File "scan.py", line 278, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 207, in makeCoveringLetters
+    for files in os.listdir(folder):
+NameError: global name 'folder' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+(<type 'exceptions.NameError'>, NameError("global name 'folder' is not defined",), <traceback object at 0x7f455a29ec20>)
+Traceback (most recent call last):
+  File "scan.py", line 279, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 207, in makeCoveringLetters
+    print os.listdir(folder)
+NameError: global name 'folder' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.AttributeError'>, AttributeError("'list' object has no attribute 'rfind'",), <traceback object at 0x7f87da2cadd0>)
+Traceback (most recent call last):
+  File "scan.py", line 153, in seperateSubsidiaries
+    filename = os.path.splitext(Strategic_summary)[0]
+  File "/usr/lib/python2.7/posixpath.py", line 98, in splitext
+    return genericpath._splitext(p, sep, altsep, extsep)
+  File "/usr/lib/python2.7/genericpath.py", line 99, in _splitext
+    sepIndex = p.rfind(sep)
+AttributeError: 'list' object has no attribute 'rfind'
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'path' is not defined",), <traceback object at 0x7f5478262d88>)
+Traceback (most recent call last):
+  File "scan.py", line 152, in seperateSubsidiaries
+    print os.listdir(path)
+NameError: global name 'path' is not defined
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'Output' is not defined",), <traceback object at 0x7f1ba8532d88>)
+Traceback (most recent call last):
+  File "scan.py", line 150, in seperateSubsidiaries
+    path = Output + '/' + os.path.basename(os.path.normpath(inputPath)) + '_certificateFiles/'
+NameError: global name 'Output' is not defined
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'Output' is not defined",), <traceback object at 0x7f3b40ff1d88>)
+Traceback (most recent call last):
+  File "scan.py", line 150, in seperateSubsidiaries
+    path = Output + '/' + os.path.basename(os.path.normpath(inputPath)) + '_certificateFiles/'
+NameError: global name 'Output' is not defined
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'Output' is not defined",), <traceback object at 0x7fb2bd281d88>)
+Traceback (most recent call last):
+  File "scan.py", line 150, in seperateSubsidiaries
+    pa = Output + '/' + os.path.basename(os.path.normpath(inputPath)) + '_certificateFiles/'
+NameError: global name 'Output' is not defined
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'Strategic_summary' is not defined",), <traceback object at 0x7f2171662830>)
+Traceback (most recent call last):
+  File "scan.py", line 155, in seperateSubsidiaries
+    filename = os.path.splitext(Strategic_summary)[0]
+NameError: global name 'Strategic_summary' is not defined
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'Strategic_summary' is not defined",), <traceback object at 0x7f69921ca878>)
+Traceback (most recent call last):
+  File "scan.py", line 157, in seperateSubsidiaries
+    filename = os.path.splitext(Strategic_summary)[0]
+NameError: global name 'Strategic_summary' is not defined
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'Strategic_summary' is not defined",), <traceback object at 0x7f555b147878>)
+Traceback (most recent call last):
+  File "scan.py", line 157, in seperateSubsidiaries
+    filename = os.path.splitext(Strategic_summary)[0]
+NameError: global name 'Strategic_summary' is not defined
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'Strategic_summary' is not defined",), <traceback object at 0x7fab98e1f878>)
+Traceback (most recent call last):
+  File "scan.py", line 154, in seperateSubsidiaries
+    filename = os.path.splitext(Strategic_summary)[0]
+NameError: global name 'Strategic_summary' is not defined
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'Strategic_summary' is not defined",), <traceback object at 0x7f9068e92cb0>)
+Traceback (most recent call last):
+  File "scan.py", line 154, in seperateSubsidiaries
+    filename = os.path.splitext(Strategic_summary)[0]
+NameError: global name 'Strategic_summary' is not defined
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'Strategic_summary' is not defined",), <traceback object at 0x7f625b6b4830>)
+Traceback (most recent call last):
+  File "scan.py", line 154, in seperateSubsidiaries
+    filename = os.path.splitext(Strategic_summary)[0]
+NameError: global name 'Strategic_summary' is not defined
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+(<type 'exceptions.NameError'>, NameError("global name 'Strategic_summary' is not defined",), <traceback object at 0x7ff87d8dd830>)
+Traceback (most recent call last):
+  File "scan.py", line 154, in seperateSubsidiaries
+    filename = os.path.splitext(Strategic_summary)[0]
+NameError: global name 'Strategic_summary' is not defined
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+(<type 'exceptions.NameError'>, NameError("global name 'strategic_summary' is not defined",), <traceback object at 0x7fdb40c98248>)
+Traceback (most recent call last):
+  File "scan.py", line 282, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 202, in makeCoveringLetters
+    filename = path + '/' + strategic_summary + str(sub) + ' ' + str(location) + '.csv'
+NameError: global name 'strategic_summary' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+(<type 'exceptions.NameError'>, NameError("global name 'strategic_summary' is not defined",), <traceback object at 0x7fc8c8d867e8>)
+Traceback (most recent call last):
+  File "scan.py", line 283, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 202, in makeCoveringLetters
+    filename = path + '/' + strategic_summary + str(sub) + ' ' + str(location) + '.csv'
+NameError: global name 'strategic_summary' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+(<type 'exceptions.NameError'>, NameError("global name 'strategic_summary' is not defined",), <traceback object at 0x7f2b04b18200>)
+Traceback (most recent call last):
+  File "scan.py", line 283, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 197, in makeCoveringLetters
+    summaryFile = path + '/' + strategic_summary + sub + ' summary' + '.csv'
+NameError: global name 'strategic_summary' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+(<type 'exceptions.NameError'>, NameError("global name 'strategic_summary' is not defined",), <traceback object at 0x7f82eca49200>)
+Traceback (most recent call last):
+  File "scan.py", line 283, in scan
+    makeCoveringLetters(editedFolder, batchData)
+  File "scan.py", line 197, in makeCoveringLetters
+    summaryFile = path + '/' + strategic_summary + sub + ' summary' + '.csv'
+NameError: global name 'strategic_summary' is not defined
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+(<type 'exceptions.KeyError'>, KeyError('Certificate',), <traceback object at 0x7f975ece8c68>)
+Traceback (most recent call last):
+  File "scan.py", line 270, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 128, in makeBatchFolder
+    for certificate in batchData['Certificate'].values:
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2062, in __getitem__
+    return self._getitem_column(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/frame.py", line 2069, in _getitem_column
+    return self._get_item_cache(key)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/generic.py", line 1534, in _get_item_cache
+    values = self._data.get(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/internals.py", line 3590, in get
+    loc = self.items.get_loc(item)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/core/indexes/base.py", line 2395, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas/_libs/index.pyx", line 132, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5239)
+  File "pandas/_libs/index.pyx", line 154, in pandas._libs.index.IndexEngine.get_loc (pandas/_libs/index.c:5085)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1207, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20405)
+  File "pandas/_libs/hashtable_class_helper.pxi", line 1215, in pandas._libs.hashtable.PyObjectHashTable.get_item (pandas/_libs/hashtable.c:20359)
+KeyError: 'Certificate'
+Got batch data file
+(<type 'exceptions.IOError'>, IOError('File Input/GDH .csv does not exist',), <traceback object at 0x7f606c04fa28>)
+Traceback (most recent call last):
+  File "scan.py", line 228, in scan
+    batchData = pd.read_csv(inputPath+"/"+batchDataFile,sep=',', low_memory=False)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/io/parsers.py", line 655, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/io/parsers.py", line 405, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/io/parsers.py", line 762, in __init__
+    self._make_engine(self.engine)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/io/parsers.py", line 966, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/io/parsers.py", line 1582, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 394, in pandas._libs.parsers.TextReader.__cinit__ (pandas/_libs/parsers.c:4209)
+  File "pandas/_libs/parsers.pyx", line 710, in pandas._libs.parsers.TextReader._setup_parser_source (pandas/_libs/parsers.c:8873)
+IOError: File Input/GDH .csv does not exist
+Got batch data file
+(<type 'exceptions.IOError'>, IOError('File Input/GDH .csv does not exist',), <traceback object at 0x7f8c47e22a28>)
+Traceback (most recent call last):
+  File "scan.py", line 228, in scan
+    batchData = pd.read_csv(inputPath+"/"+batchDataFile,sep=',', low_memory=False)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/io/parsers.py", line 655, in parser_f
+    return _read(filepath_or_buffer, kwds)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/io/parsers.py", line 405, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/io/parsers.py", line 762, in __init__
+    self._make_engine(self.engine)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/io/parsers.py", line 966, in _make_engine
+    self._engine = CParserWrapper(self.f, **self.options)
+  File "/home/srk/.local/lib/python2.7/site-packages/pandas/io/parsers.py", line 1582, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+  File "pandas/_libs/parsers.pyx", line 394, in pandas._libs.parsers.TextReader.__cinit__ (pandas/_libs/parsers.c:4209)
+  File "pandas/_libs/parsers.pyx", line 710, in pandas._libs.parsers.TextReader._setup_parser_source (pandas/_libs/parsers.c:8873)
+IOError: File Input/GDH .csv does not exist
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+mapped master data to batch data
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+(<type 'exceptions.NameError'>, NameError("global name 'load_workbook' is not defined",), <traceback object at 0x7fc6716c6248>)
+Traceback (most recent call last):
+  File "scan.py", line 206, in scan
+    wb = load_workbook(inputPath + 'GDH .xlsx', read_only=True)
+NameError: global name 'load_workbook' is not defined
+(<type 'exceptions.NameError'>, NameError("global name 'load_workbook' is not defined",), <traceback object at 0x7fc953b87248>)
+Traceback (most recent call last):
+  File "scan.py", line 209, in scan
+    wb = load_workbook(inputPath + batchDataFile, read_only=True)
+NameError: global name 'load_workbook' is not defined
+(<type 'exceptions.NameError'>, NameError("global name 'load_workbook' is not defined",), <traceback object at 0x7f3f13100248>)
+Traceback (most recent call last):
+  File "scan.py", line 210, in scan
+    wb = load_workbook(inputPath + batchDataFile, read_only=True)
+NameError: global name 'load_workbook' is not defined
+(<type 'exceptions.NameError'>, NameError("global name 'load_workbook' is not defined",), <traceback object at 0x7ff6780a4248>)
+Traceback (most recent call last):
+  File "scan.py", line 209, in scan
+    wb = load_workbook(inputPath + batchDataFile, read_only=True)
+NameError: global name 'load_workbook' is not defined
+(<type 'exceptions.NameError'>, NameError("global name 'load_workbook' is not defined",), <traceback object at 0x7fbcb51a9248>)
+Traceback (most recent call last):
+  File "scan.py", line 209, in scan
+    wb = load_workbook(inputPath + batchDataFile, read_only=True)
+NameError: global name 'load_workbook' is not defined
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'batchData' referenced before assignment",), <traceback object at 0x7fb292420fc8>)
+Traceback (most recent call last):
+  File "scan.py", line 258, in scan
+    temp = ((batchData['Concat'].str.lower()).str.replace(' ','')).str.replace('.','')
+UnboundLocalError: local variable 'batchData' referenced before assignment
+(<type 'exceptions.AttributeError'>, AttributeError("'dict' object has no attribute 'content'",), <traceback object at 0x7f6434311368>)
+Traceback (most recent call last):
+  File "scan.py", line 241, in scan
+    print detailed_data.content
+AttributeError: 'dict' object has no attribute 'content'
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'batchData' referenced before assignment",), <traceback object at 0x7efe17ba6fc8>)
+Traceback (most recent call last):
+  File "scan.py", line 258, in scan
+    temp = ((batchData['Concat'].str.lower()).str.replace(' ','')).str.replace('.','')
+UnboundLocalError: local variable 'batchData' referenced before assignment
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'batchData' referenced before assignment",), <traceback object at 0x7f7b8f0b7fc8>)
+Traceback (most recent call last):
+  File "scan.py", line 258, in scan
+    temp = ((batchData['Concat'].str.lower()).str.replace(' ','')).str.replace('.','')
+UnboundLocalError: local variable 'batchData' referenced before assignment
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'batchData' referenced before assignment",), <traceback object at 0x7f60bb2affc8>)
+Traceback (most recent call last):
+  File "scan.py", line 258, in scan
+    temp = ((batchData['Concat'].str.lower()).str.replace(' ','')).str.replace('.','')
+UnboundLocalError: local variable 'batchData' referenced before assignment
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'batchData' referenced before assignment",), <traceback object at 0x7ff854593fc8>)
+Traceback (most recent call last):
+  File "scan.py", line 261, in scan
+    temp = ((batchData['Concat'].str.lower()).str.replace(' ','')).str.replace('.','')
+UnboundLocalError: local variable 'batchData' referenced before assignment
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'batchData' referenced before assignment",), <traceback object at 0x7fc97aea9fc8>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    temp = ((batchData['Concat'].str.lower()).str.replace(' ','')).str.replace('.','')
+UnboundLocalError: local variable 'batchData' referenced before assignment
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'batchData' referenced before assignment",), <traceback object at 0x7f10f77c7368>)
+Traceback (most recent call last):
+  File "scan.py", line 255, in scan
+    temp = ((batchData['Concat'].str.lower()).str.replace(' ','')).str.replace('.','')
+UnboundLocalError: local variable 'batchData' referenced before assignment
+Got batch data file
+(<type 'exceptions.AttributeError'>, AttributeError("'list' object has no attribute 'isin'",), <traceback object at 0x7f1a61810368>)
+Traceback (most recent call last):
+  File "scan.py", line 255, in scan
+    check = concat[1:].isin(detailed_key_values)
+AttributeError: 'list' object has no attribute 'isin'
+Got batch data file
+(<type 'exceptions.AttributeError'>, AttributeError("'list' object has no attribute 'isin'",), <traceback object at 0x7fcf0963d368>)
+Traceback (most recent call last):
+  File "scan.py", line 256, in scan
+    check = concat[1:].isin(detailed_key_values)
+AttributeError: 'list' object has no attribute 'isin'
+Got batch data file
+(<type 'exceptions.NameError'>, NameError("global name 'checkSum' is not defined",), <traceback object at 0x7f2e4e11c518>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    if checkSum != len(excel_data[1:]):
+NameError: global name 'checkSum' is not defined
+Got batch data file
+(<type 'exceptions.NameError'>, NameError("global name 'checkSum' is not defined",), <traceback object at 0x7f97c119a518>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    if checkSum != len(excel_data[1:]):
+NameError: global name 'checkSum' is not defined
+Got batch data file
+(<type 'exceptions.NameError'>, NameError("global name 'checkSum' is not defined",), <traceback object at 0x7f3c7a903518>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    if checkSum != len(excel_data[1:]):
+NameError: global name 'checkSum' is not defined
+Got batch data file
+(<type 'exceptions.NameError'>, NameError("global name 'checkSum' is not defined",), <traceback object at 0x7f9546f45518>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    if checkSum != (len(excel_data[1:]) - 1):
+NameError: global name 'checkSum' is not defined
+Got batch data file
+(<type 'exceptions.NameError'>, NameError("global name 'checkSum' is not defined",), <traceback object at 0x7efc04646518>)
+Traceback (most recent call last):
+  File "scan.py", line 264, in scan
+    if checkSum != (len(excel_data) - 1):
+NameError: global name 'checkSum' is not defined
+Got batch data file
+(<type 'exceptions.NameError'>, NameError("global name 'checkSum' is not defined",), <traceback object at 0x7f6cc7c5a518>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    if checkSum != (len(excel_data) - 1):
+NameError: global name 'checkSum' is not defined
+Got batch data file
+(<type 'exceptions.NameError'>, NameError("global name 'checkSum' is not defined",), <traceback object at 0x7ff077f8d518>)
+Traceback (most recent call last):
+  File "scan.py", line 265, in scan
+    if checkSum != (len(excel_data) - 1):
+NameError: global name 'checkSum' is not defined
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'batchData' referenced before assignment",), <traceback object at 0x7f3e584c3518>)
+Traceback (most recent call last):
+  File "scan.py", line 274, in scan
+    getData(batchData, masterData)
+UnboundLocalError: local variable 'batchData' referenced before assignment
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'batchData' referenced before assignment",), <traceback object at 0x7fecc1343518>)
+Traceback (most recent call last):
+  File "scan.py", line 274, in scan
+    getData(batchData, masterData)
+UnboundLocalError: local variable 'batchData' referenced before assignment
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'concat' referenced before assignment",), <traceback object at 0x7f8459635b00>)
+Traceback (most recent call last):
+  File "scan.py", line 250, in scan
+    url="http://52.11.242.228:8080/api/public/getByConcatNames?names="+",".join(concat[1:])
+UnboundLocalError: local variable 'concat' referenced before assignment
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'concat' referenced before assignment",), <traceback object at 0x7f5514401518>)
+Traceback (most recent call last):
+  File "scan.py", line 250, in scan
+    url="http://52.11.242.228:8080/api/public/getByConcatNames?names="+",".join(concat[1:])
+UnboundLocalError: local variable 'concat' referenced before assignment
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'concat' referenced before assignment",), <traceback object at 0x7f6fa9fbdf80>)
+Traceback (most recent call last):
+  File "scan.py", line 251, in scan
+    url="http://52.11.242.228:8080/api/public/getByConcatNames?names="+",".join(concat[1:])
+UnboundLocalError: local variable 'concat' referenced before assignment
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'concat' referenced before assignment",), <traceback object at 0x7f63f94e8f38>)
+Traceback (most recent call last):
+  File "scan.py", line 251, in scan
+    url="http://52.11.242.228:8080/api/public/getByConcatNames?names="+",".join(concat[1:])
+UnboundLocalError: local variable 'concat' referenced before assignment
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'excel_data' referenced before assignment",), <traceback object at 0x7fcd323cc7a0>)
+Traceback (most recent call last):
+  File "scan.py", line 273, in scan
+    if sum(check) != (len(excel_data) - 1):
+UnboundLocalError: local variable 'excel_data' referenced before assignment
+Got batch data file
+(<type 'exceptions.UnboundLocalError'>, UnboundLocalError("local variable 'excel_data' referenced before assignment",), <traceback object at 0x7f5d70d067a0>)
+Traceback (most recent call last):
+  File "scan.py", line 273, in scan
+    if sum(check) != (len(excel_data) - 1):
+UnboundLocalError: local variable 'excel_data' referenced before assignment
+Got batch data file
+(<type 'exceptions.AttributeError'>, AttributeError("'list' object has no attribute 'loc'",), <traceback object at 0x7f8974283950>)
+Traceback (most recent call last):
+  File "scan.py", line 283, in scan
+    getData(batchData, detailed_data)
+  File "scan.py", line 85, in getData
+    training_center, sdms_candidate, sdms_batch, start_date, asses_date = masterData.loc[((masterData['Concat'].str.lower()).str.replace(' ','')).str.replace('.','') == value.lower().replace(' ','').replace('.',''), getColumns].values[0]
+AttributeError: 'list' object has no attribute 'loc'
+Got batch data file
+(<type 'exceptions.AttributeError'>, AttributeError("'list' object has no attribute 'loc'",), <traceback object at 0x7fd69f767950>)
+Traceback (most recent call last):
+  File "scan.py", line 282, in scan
+    getData(batchData, detailed_data)
+  File "scan.py", line 85, in getData
+    training_center, sdms_candidate, sdms_batch, start_date, asses_date = masterData.loc[((masterData['Concat'].str.lower()).str.replace(' ','')).str.replace('.','') == value.lower().replace(' ','').replace('.',''), getColumns].values[0]
+AttributeError: 'list' object has no attribute 'loc'
+Got batch data file
+(<type 'exceptions.AttributeError'>, AttributeError("'list' object has no attribute 'loc'",), <traceback object at 0x7f1575c30950>)
+Traceback (most recent call last):
+  File "scan.py", line 283, in scan
+    getData(batchData, detailed_data)
+  File "scan.py", line 86, in getData
+    training_center, sdms_candidate, sdms_batch, start_date, asses_date = masterData.loc[((masterData['Concat'].str.lower()).str.replace(' ','')).str.replace('.','') == value.lower().replace(' ','').replace('.',''), getColumns].values[0]
+AttributeError: 'list' object has no attribute 'loc'
+Got batch data file
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+Mapped certificate files
+Batch folder created
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+Mapped certificate files
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+(<type 'exceptions.OSError'>, OSError(2, 'No such file or directory'), <traceback object at 0x7f29a64fde60>)
+Traceback (most recent call last):
+  File "scan.py", line 212, in scan
+    files = os.listdir(inputPath)
+OSError: [Errno 2] No such file or directory: 'script/Input/batch2'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f1d21d9ff38>)
+Traceback (most recent call last):
+  File "scan.py", line 213, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 48, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 30, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch2GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f7194e68f38>)
+Traceback (most recent call last):
+  File "scan.py", line 213, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 48, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 30, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch2GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f6880a22f38>)
+Traceback (most recent call last):
+  File "scan.py", line 213, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 48, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 30, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch2GDH .xlsx'
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7f10a1473f38>)
+Traceback (most recent call last):
+  File "scan.py", line 213, in scan
+    batchDataFile = getDataFile(files)
+  File "scan.py", line 48, in getDataFile
+    data = csv_from_excel(file)
+  File "scan.py", line 30, in csv_from_excel
+    wb = xlrd.open_workbook(inputPath+file)
+  File "/usr/lib/python2.7/dist-packages/xlrd/__init__.py", line 395, in open_workbook
+    with open(filename, "rb") as f:
+IOError: [Errno 2] No such file or directory: 'Input/batch2GDH .xlsx'
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+Mapped certificate files
+(<type 'exceptions.TypeError'>, TypeError("cannot concatenate 'str' and 'float' objects",), <traceback object at 0x7fb07129b128>)
+Traceback (most recent call last):
+  File "scan.py", line 271, in scan
+    folder, errFolder = makeBatchFolder(batchData, notFound)
+  File "scan.py", line 124, in makeBatchFolder
+    os.rename(inputPath+certificate, dstPath+certificate)
+TypeError: cannot concatenate 'str' and 'float' objects
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+(<class 'socket.error'>, error(104, 'Connection reset by peer'), <traceback object at 0x7fe70e7a4ef0>)
+Traceback (most recent call last):
+  File "scan.py", line 255, in scan
+    detailed_data = json.loads(response.read())
+  File "/usr/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+error: [Errno 104] Connection reset by peer
+Got batch data file
+(<class 'socket.error'>, error(104, 'Connection reset by peer'), <traceback object at 0x7fa7e24abef0>)
+Traceback (most recent call last):
+  File "scan.py", line 255, in scan
+    detailed_data = json.loads(response.read())
+  File "/usr/lib/python2.7/socket.py", line 355, in read
+    data = self._sock.recv(rbufsize)
+error: [Errno 104] Connection reset by peer
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+Mapped certificate files
+(<type 'exceptions.NameError'>, NameError("global name 'folder' is not defined",), <traceback object at 0x7f2946832c68>)
+Traceback (most recent call last):
+  File "scan.py", line 315, in scan
+    addLoc(batchData, editedFolder)
+  File "scan.py", line 142, in addLoc
+    for certificate in os.listdir(folder) :
+NameError: global name 'folder' is not defined
+Got batch data file
+(<type 'exceptions.KeyboardInterrupt'>, KeyboardInterrupt(), <traceback object at 0x7f82911b3368>)
+Traceback (most recent call last):
+  File "scan.py", line 277, in scan
+    response = urllib.urlopen(url)
+  File "/usr/lib/python2.7/urllib.py", line 87, in urlopen
+    return opener.open(url)
+  File "/usr/lib/python2.7/urllib.py", line 213, in open
+    return getattr(self, name)(url)
+  File "/usr/lib/python2.7/urllib.py", line 350, in open_http
+    h.endheaders(data)
+  File "/usr/lib/python2.7/httplib.py", line 1038, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python2.7/httplib.py", line 882, in _send_output
+    self.send(msg)
+  File "/usr/lib/python2.7/httplib.py", line 844, in send
+    self.connect()
+  File "/usr/lib/python2.7/httplib.py", line 821, in connect
+    self.timeout, self.source_address)
+  File "/usr/lib/python2.7/socket.py", line 566, in create_connection
+    sock.connect(sa)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+KeyboardInterrupt
+Got batch data file
+Mapped certificate files
+(<type 'exceptions.NameError'>, NameError("global name 'folder' is not defined",), <traceback object at 0x7fe80205fc68>)
+Traceback (most recent call last):
+  File "scan.py", line 316, in scan
+    addLoc(batchData, editedFolder)
+  File "scan.py", line 142, in addLoc
+    for certificate in os.listdir(folder) :
+NameError: global name 'folder' is not defined
+Got batch data file
+Mapped certificate files
+(<type 'exceptions.IOError'>, IOError(2, 'No such file or directory'), <traceback object at 0x7fb1b59abf38>)
+Traceback (most recent call last):
+  File "scan.py", line 317, in scan
+    #postCertificates(batchData, editedFolder)
+  File "scan.py", line 171, in postCertificates
+    files = {'file' : open(folder+'/'+certificate , 'rb')}
+IOError: [Errno 2] No such file or directory: 'Output/batch2_certificateFiles/NSDC_VOLKSY_Technologies_Private_Limited_376705913104279744_Shiv_Pado_Modak.jpg'
+Got batch data file
+Mapped certificate files
+Got batch data file
+Mapped certificate files
+Got batch data file
+(<type 'exceptions.KeyboardInterrupt'>, KeyboardInterrupt(), <traceback object at 0x7f398c839368>)
+Traceback (most recent call last):
+  File "scan.py", line 276, in scan
+    response = urllib.urlopen(url)
+  File "/usr/lib/python2.7/urllib.py", line 87, in urlopen
+    return opener.open(url)
+  File "/usr/lib/python2.7/urllib.py", line 213, in open
+    return getattr(self, name)(url)
+  File "/usr/lib/python2.7/urllib.py", line 350, in open_http
+    h.endheaders(data)
+  File "/usr/lib/python2.7/httplib.py", line 1038, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python2.7/httplib.py", line 882, in _send_output
+    self.send(msg)
+  File "/usr/lib/python2.7/httplib.py", line 844, in send
+    self.connect()
+  File "/usr/lib/python2.7/httplib.py", line 821, in connect
+    self.timeout, self.source_address)
+  File "/usr/lib/python2.7/socket.py", line 566, in create_connection
+    sock.connect(sa)
+  File "/usr/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+KeyboardInterrupt
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
+Got batch data file
+(<type 'exceptions.ValueError'>, ValueError('No JSON object could be decoded',), <traceback object at 0x7fd368c52b00>)
+Traceback (most recent call last):
+  File "scan.py", line 277, in scan
+    detailed_data = json.loads(response.read())
+  File "/usr/lib/python2.7/json/__init__.py", line 339, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 364, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+Got batch data file
+Mapped certificate files
+Certificates filtered into subsidiaries
+Covering letters prepared
+Covering letters prepared
